@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWo4bzN4ODlqYWZiM3lldHBnMXlzMGhzNHBic2U3d3R3d3Nob3lqaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZgTR3UQ9XAWDvqy9jv/giphy.gif" width="200" height="300"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWo4bzN4ODlqYWZiM3lldHBnMXlzMGhzNHBic2U3d3R3d3Nob3lqaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZgTR3UQ9XAWDvqy9jv/giphy.gif" width="400" height="300"/>
 </div>
 
 # Портфолио: Инженер По Тестированию
