@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif](https://giphy.com/gifs/wordpressdotcom-website-wordpress-plugin-ZgTR3UQ9XAWDvqy9jv)" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
 # Портфолио: Инженер По Тестированию
