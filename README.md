@@ -23,7 +23,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Android_Studio_Icon_3.6.svg" title="AndroidStudio" alt="AndroidStudio" width="40" height="40"/>
 </div>
 
-- Навыки: ``Функциональное тестирование``, ``Тестирование API``, ``Мобильное тестирование``,``SQL``, ``Тестирование документации``, ``HTML/CSS``;
+- Навыки: ``Функциональное тестирование``, ``Тестирование API``, ``Мобильное тестирование``, ``SQL``, ``Тестирование документации``, ``HTML/CSS``;
 - Инструменты для функционального тестирования: ``Jira``, ``qase.io``, ``Sitechco``, ``Miro``, ``Chrome devtools``;
 - Инструменты для тестирования API: ``Postman``, ``Swagger``, ``SoapUI``, ``Mockoon``, ``DBeaver``;
 - Инструменты для тестирования SQL: ``PostgreSQL``, ``pgAdmin 4``;
