@@ -19,13 +19,15 @@
   <img src="https://logovectorseek.com/wp-content/uploads/2020/09/soapui-supported-by-smartbear-logo-vector.png"  title="SOAP UI" alt="SOAP UI" width="80" height="40"/>&nbsp;
   <img src="https://mockoon.com/images/logo.svg" title="Mockoon" alt="Mockoon" width="80" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/DBeaver_logo.svg" title="DBeaver" alt="DBeaver" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+  <img src="https://commons.wikimedia.org/wiki/File:Android_Studio_Icon_3.6.svg" title="AndroidStudio" alt="AndroidStudio" width="40" height="40"/>
 </div>
 
-- Навыки: ``Функциональное тестирование``, ``Тестирование API``, ``SQL``, ``Тестирование документации``;
+- Навыки: ``Функциональное тестирование``, ``Тестирование API``, ``Мобильное тестирование``,``SQL``, ``Тестирование документации``, ``HTML/CSS``;
 - Инструменты для функционального тестирования: ``Jira``, ``qase.io``, ``Sitechco``, ``Miro``, ``Chrome devtools``;
 - Инструменты для тестирования API: ``Postman``, ``Swagger``, ``SoapUI``, ``Mockoon``, ``DBeaver``;
 - Инструменты для тестирования SQL: ``PostgreSQL``, ``pgAdmin 4``;
+- Инструменты для мобильного тестирования: ``Android Studio``.
 
 # :page_facing_up: Проекты
 **Проект 1**: Тестирование расписания в разделе "Личные события" в веб-приложении для учителей от Skyeng
