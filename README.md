@@ -20,7 +20,7 @@
   <img src="https://mockoon.com/images/logo.svg" title="Mockoon" alt="Mockoon" width="80" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/DBeaver_logo.svg" title="DBeaver" alt="DBeaver" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
-  <img src="https://commons.wikimedia.org/wiki/File:Android_Studio_Icon_3.6.svg" title="AndroidStudio" alt="AndroidStudio" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Android_Studio_Icon_3.6.svg" title="AndroidStudio" alt="AndroidStudio" width="40" height="40"/>
 </div>
 
 - Навыки: ``Функциональное тестирование``, ``Тестирование API``, ``Мобильное тестирование``,``SQL``, ``Тестирование документации``, ``HTML/CSS``;
